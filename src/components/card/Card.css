@@ -15,7 +15,12 @@
     "registerDate registerDate"
      ;
 
-     background-color: #84dcf4;
+     
+     background-image: linear-gradient(
+         to bottom right,
+         #096b86,
+         rgb(180, 237, 240)
+     );
      border: 1px solid ;
      border-radius: 5px;
      font-size: 1.2rem;
