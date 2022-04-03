@@ -1,0 +1,54 @@
+.container{
+    width: 500px;
+    margin: auto;
+    display: grid;
+    margin-top: 5rem;
+    grid-template-columns: 200px 300px;
+    grid-template-rows: 10rem 3rem 3rem 3rem 3rem 3rem;
+
+    grid-template-areas: 
+    "photo name"
+    "mailIcon mail"
+    "phoneIcon phone"
+    "locationIcon location"
+    "age age"
+    "registerDate registerDate"
+     ;
+
+     background-color: #84dcf4;
+     border: 1px solid ;
+     border-radius: 5px;
+     font-size: 1.2rem;
+     
+
+     box-shadow: 5px 5px 6px #84dcf4;
+     
+    
+}
+.photo{
+    grid-area: photo;
+    
+    }
+img{
+    border-radius: 5rem;
+    padding: 1rem;
+
+    }
+
+.name{
+    grid-area: name;
+    padding-top: 3rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.mailIcon{grid-area: mailIcon;}
+.mail{
+    grid-area: mail;
+
+}
+.phoneIcon{grid-area: phoneIcon;}
+.phone{grid-area: phone;}
+.locationIcon{grid-area: locationIcon;}
+.location{grid-area: location;}
+.age{grid-area: age;}
+.registerDate{grid-area: registerDate;}
