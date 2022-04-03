@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/randomUserApp/static/css/main.ed4fa56b.css",
-    "main.js": "/randomUserApp/static/js/main.cc9400df.js",
-    "static/media/email.svg": "/randomUserApp/static/media/email.cdd9a2dc2d152fe13b7c0e865eb595a3.svg",
-    "static/media/location.svg": "/randomUserApp/static/media/location.dce001fc6dd0ba2ccedb9af1184e7949.svg",
-    "static/media/phone.svg": "/randomUserApp/static/media/phone.4f44c944955a42a1eb621aaa0889269d.svg",
-    "index.html": "/randomUserApp/index.html",
-    "main.ed4fa56b.css.map": "/randomUserApp/static/css/main.ed4fa56b.css.map",
-    "main.cc9400df.js.map": "/randomUserApp/static/js/main.cc9400df.js.map"
+    "main.css": "/random-user-app/static/css/main.ed4fa56b.css",
+    "main.js": "/random-user-app/static/js/main.83b4b005.js",
+    "static/media/email.svg": "/random-user-app/static/media/email.cdd9a2dc2d152fe13b7c0e865eb595a3.svg",
+    "static/media/location.svg": "/random-user-app/static/media/location.dce001fc6dd0ba2ccedb9af1184e7949.svg",
+    "static/media/phone.svg": "/random-user-app/static/media/phone.4f44c944955a42a1eb621aaa0889269d.svg",
+    "index.html": "/random-user-app/index.html",
+    "main.ed4fa56b.css.map": "/random-user-app/static/css/main.ed4fa56b.css.map",
+    "main.83b4b005.js.map": "/random-user-app/static/js/main.83b4b005.js.map"
   },
   "entrypoints": [
     "static/css/main.ed4fa56b.css",
-    "static/js/main.cc9400df.js"
+    "static/js/main.83b4b005.js"
   ]
 }
