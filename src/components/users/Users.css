@@ -1,0 +1,20 @@
+button{
+    margin: 2rem;
+    width: 10rem;
+    height: 3rem;
+    font-size:1rem;
+    font-weight: 600;
+    color: white;
+    background-color: #20a2ca;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+button:hover{
+    cursor: pointer;
+    color: black;
+    background-color: bisque;
+    transition: background 1.5s;
+
+}
